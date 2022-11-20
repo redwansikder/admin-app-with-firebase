@@ -1,0 +1,7 @@
+.MainLeft {
+  flex: 1;
+  background-color: aliceblue;
+  position: sticky;
+  top: 3.3em;
+  height: 50vh;
+}

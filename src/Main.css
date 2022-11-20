@@ -1,0 +1,6 @@
+.Main {
+  display: flex;
+  gap: 1em;
+  min-height: calc(100vh - 3.3rem);
+  margin: 0 auto;
+}
